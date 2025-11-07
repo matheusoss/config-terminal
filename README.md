@@ -1,4 +1,4 @@
-# config-terminal# 🚀 Guia Completo do Terminal ZSH
+# 🚀 Guia Completo do Terminal ZSH
 
 > Configuração completa do terminal com Oh My Zsh, Powerlevel10k e ferramentas modernas
 
